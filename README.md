@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://tejx27.github.io/Resume/](https://tejx27.github.io/Resume/)
-
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **tejasnikam4515@gmail.com**
-
-- 📄 Know about my experiences [https://tejx27.github.io/Resume/](https://tejx27.github.io/Resume/)
 
 - ⚡ Fun fact **I think I am funny!**
 
