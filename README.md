@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **tejasnikam4515@gmail.com**
+- 📫 How to reach me **tejassnikam1@gmail.com**
 
 - ⚡ Fun fact **I think I am funny!**
 
