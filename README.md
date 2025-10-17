@@ -1,23 +1,25 @@
 <h2 align="center">👋 Hey there, I'm <a href="https://github.com/Tejx27">Tejas Nikam</a>!</h2>
 
 <p align="center">
-🎓 Master's Student in <strong>Management & Data Science</strong> at <strong>Leuphana University, Germany</strong><br>
-💻 Passionate <strong>Data Analyst</strong> & <strong>Full Stack Developer</strong><br>
+🎓 Master’s Student in <strong>Management & Data Science</strong> at <strong>Leuphana University, Germany</strong><br>
+💻 Former <strong>Junior Data Analyst</strong> at <strong>TDM Infotech, Pune</strong><br>
 📍 Based in Hamburg, Germany
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-I’m a results-driven engineer with a strong foundation in **software development** and **data analytics**.  
-I love building scalable backends, visualizing complex data, and transforming insights into impactful solutions.  
-My experience blends **data-driven decision-making** with **robust system design** — from dashboards to full-stack apps.
 
-- 🔭 Currently working as **Junior Data Analyst** at **TDM Infotech**
-- 🌱 Learning **Machine Learning**, **Data Visualization**, and **Cloud Development**
-- 💬 Ask me about **Python**, **Power BI**, **Node.js**, **Express.js**, or **MongoDB**
-- 💼 Open for freelance and collaboration opportunities: [email](mailto:tejasshivajinikam@gmail.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tejxs/)
+Analytical and results-oriented Master’s student in **Management and Data Science at Leuphana University**, with a strong foundation in **software engineering** and **data analytics**.  
+Skilled in developing scalable backend systems using **Node.js**, **Express.js**, **MongoDB**, and **SQL**, and experienced in **data analysis and visualization** with **Python (Pandas, NumPy, Matplotlib)** and **Power BI**.  
+Proficient in **agile development**, **API design**, and the **end-to-end software lifecycle**, ensuring efficient and high-quality solutions.  
+With expertise in **Java**, **JavaScript**, and **object-oriented programming**, I combine technical proficiency and analytical insight, making me well-suited for roles that require **data-driven problem solving** and **innovative software development**.
+
+- 🎓 Currently pursuing my **Master’s in Management & Data Science** at Leuphana University  
+- 💼 Former **Junior Data Analyst** at **TDM Infotech, India**  
+- 💬 Ask me about **Python**, **Power BI**, **SQL**, **Node.js**, **Express.js**, or **MongoDB**  
+- 💡 Interested in **data-driven innovation**, **AI applications**, and **full-stack development**  
+- 📫 Reach me at [email](mailto:tejasshivajinikam@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tejxs/)
 
 ---
 
@@ -25,18 +27,20 @@ My experience blends **data-driven decision-making** with **robust system design
 
 #### 💻 Languages & Tools
 <p align="center">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="python" style="margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="javascript" style="margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="java" style="margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/sql.png" alt="sql" style="margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="nodejs" style="margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react" style="margin:4px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png" alt="vscode" style="margin:4px">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode">
 </p>
 
 ---
@@ -48,16 +52,3 @@ My experience blends **data-driven decision-making** with **robust system design
 - 💓 **Pulse Rate Monitoring with Arduino** – Real-time health monitoring using microcontroller integration  
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejx27&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejx27&theme=tokyonight" alt="GitHub Streak Stats">
-</p>
-
----
-
-### 👀 Visitor Count
-<p align="center">
-<img src="https://profile-counter.glitch.me/Tejx27/count.svg" />
-</p>
